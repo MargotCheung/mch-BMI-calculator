@@ -8,7 +8,7 @@ env:
   AZURE_WEBAPP_NAME: "fcu-bmi-calculator"    # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: "Application"      # set this to the path to your web app project, defaults to the repository root
 <<<<<<< HEAD
-  PYTHON_VERSION: '3.7'                       # set this to the python version to use
+  PYTHON_VERSION: '3.10'                       # set this to the python version to use
   RESOURCEGROUPNAME: "fcu-bmi-calculator-rg"
   LOCATION: "East Asia"
   HOSTINGPLANNAME: "fcu-bmi-calculator-plan"
@@ -16,7 +16,7 @@ env:
   SKU: "B1"
   SONAR_HOST_URL: "http://20.194.33.30"
 =======
-  PYTHON_VERSION: '3.7'                       # set this to the python version to use
+  PYTHON_VERSION: '3.10'                       # set this to the python version to use
   RESOURCEGROUPNAME: "mch-BMI-calculator-rg"
   LOCATION: "South Central US"
   HOSTINGPLANNAME: "mch-BMI-calculator-plan"
